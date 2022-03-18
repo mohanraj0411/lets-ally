@@ -1,24 +1,17 @@
-# t
+# Welcome to Lets Ally
+Hi! I'm going to teach you how to install the environment on local and server
 
-## Project setup
-```
-yarn install
-```
+# Pre-requisites:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+ - Node.js® 10.24.1+
+ - Visual Studio Code
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Installation Steps:
 
-### Lints and fixes files
-```
-yarn lint
-```
+You can use "git clone": https://github.com/mohanraj0411/lets-ally
+-   git clone -b main
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Operational Notes
+
+-  To publish website run  `npm run build`  on project root folder
+-  And copy all files in build folder to website root folder
